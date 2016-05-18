@@ -1,0 +1,11 @@
+E:\T\Flickr\WallpaperChanger\WallpaperChanger.Console\bin\Debug\WallpaperChanger.Console.exe.config
+E:\T\Flickr\WallpaperChanger\WallpaperChanger.Console\bin\Debug\WallpaperChanger.Console.exe
+E:\T\Flickr\WallpaperChanger\WallpaperChanger.Console\bin\Debug\WallpaperChanger.Console.pdb
+E:\T\Flickr\WallpaperChanger\WallpaperChanger.Console\obj\Debug\WallpaperChanger.Console.exe
+E:\T\Flickr\WallpaperChanger\WallpaperChanger.Console\obj\Debug\WallpaperChanger.Console.pdb
+E:\T\Flickr\WallpaperChanger\WallpaperChanger.Console\bin\Debug\FlickrNet.dll
+E:\T\Flickr\WallpaperChanger\WallpaperChanger.Console\bin\Debug\WallpaperChanger.exe
+E:\T\Flickr\WallpaperChanger\WallpaperChanger.Console\bin\Debug\WallpaperChanger.pdb
+E:\T\Flickr\WallpaperChanger\WallpaperChanger.Console\bin\Debug\FlickrNet.pdb
+E:\T\Flickr\WallpaperChanger\WallpaperChanger.Console\bin\Debug\FlickrNet.xml
+E:\T\Flickr\WallpaperChanger\WallpaperChanger.Console\obj\Debug\WallpaperChanger.Console.csprojResolveAssemblyReference.cache

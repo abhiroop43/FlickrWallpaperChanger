@@ -1,0 +1,12 @@
+E:\T\Flickr\WallpaperChanger\WallpaperChanger.Tests\bin\Debug\WallpaperChanger.Tests.dll
+E:\T\Flickr\WallpaperChanger\WallpaperChanger.Tests\bin\Debug\WallpaperChanger.Tests.pdb
+E:\T\Flickr\WallpaperChanger\WallpaperChanger.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\T\Flickr\WallpaperChanger\WallpaperChanger.Tests\bin\Debug\WallpaperChanger.exe
+E:\T\Flickr\WallpaperChanger\WallpaperChanger.Tests\bin\Debug\FlickrNet.dll
+E:\T\Flickr\WallpaperChanger\WallpaperChanger.Tests\bin\Debug\WallpaperChanger.pdb
+E:\T\Flickr\WallpaperChanger\WallpaperChanger.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+E:\T\Flickr\WallpaperChanger\WallpaperChanger.Tests\bin\Debug\FlickrNet.pdb
+E:\T\Flickr\WallpaperChanger\WallpaperChanger.Tests\bin\Debug\FlickrNet.xml
+E:\T\Flickr\WallpaperChanger\WallpaperChanger.Tests\obj\Debug\WallpaperChanger.Tests.csprojResolveAssemblyReference.cache
+E:\T\Flickr\WallpaperChanger\WallpaperChanger.Tests\obj\Debug\WallpaperChanger.Tests.dll
+E:\T\Flickr\WallpaperChanger\WallpaperChanger.Tests\obj\Debug\WallpaperChanger.Tests.pdb
